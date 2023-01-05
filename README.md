@@ -6,5 +6,5 @@ Completed this project as part of my Data Science and Machine Learning Internshi
 * Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks, Bagging, Boosting,SVM and KNN.
 * Compared the results to recommend the best Machine Learning model.
 
-*_COLAB NOTEBOOK LINK_*:     
-*_PROJECT PRESENTATION LINK_*: 
+*_COLAB NOTEBOOK LINK_*: https://github.com/Neeraja2303/NeerajaGoli-Concrete-Compressive-Strength-Analysis-Using-Machine-Learning/blob/main/CONCRETE_UNP(LR%2CNN%2CBAGGING%2CBOOSTING_).ipynb  
+*_PROJECT PRESENTATION LINK_*: https://drive.google.com/file/d/1GrpgpMCT872-hAz61fD_9-WxALYMZrqL/view?usp=sharing
